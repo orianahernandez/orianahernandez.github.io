@@ -50,10 +50,11 @@ Hidden stakeholders: Students with accessibility needs, students not using the p
 |Academic Advisors|Primary|Review student<br>degree plans for<br>policy and<br>prerequisite<br>compliance|US-02|
 |Students Changing<br>Majors|Secondary|Evaluate how a<br>major change<br>affects graduation<br>requirements adn<br>timeline.|US-03|
 |Transfer Students|Secondary|Understand how<br>transfer credits|US-04| apply toward<br>degree completion
-|---|---|---|---|
+
 |Students not using<br>GradPath|Hidden|Register for<br>courses without<br>adverse effects<br>from GradPath-<br>generated plans|US-05|
 |||_Notes:_<br>_Transfer students_<br>_do not have access_<br>_to Audit degrees_<br>_until admission is_<br>_finalized_||
 |||_Future versions_<br>_may support_<br>_manual entry of_<br>_equivalent UC_<br>_course credit_<br>_based on the UC_<br>_Transfer_<br>_Equivalency_<br>_Database_||
+|---|---|---|---|
 
 
 
