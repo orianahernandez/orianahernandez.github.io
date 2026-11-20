@@ -49,11 +49,7 @@ Hidden stakeholders: Students with accessibility needs, students not using the p
 |Undergraduate<br>Students|Primary|Generate a<br>semester-by-<br>semester course<br>plan using a degree<br>audit to be<br>informed about<br>remaining courses<br>and expected<br>graduation term.|US-01|
 |Academic Advisors|Primary|Review student<br>degree plans for<br>policy and<br>prerequisite<br>compliance|US-02|
 |Students Changing<br>Majors|Secondary|Evaluate how a<br>major change<br>affects graduation<br>requirements adn<br>timeline.|US-03|
-|Transfer Students|Secondary|Understand how<br>transfer credits|US-04|
-
-
-
-|||apply toward<br>degree completion||
+|Transfer Students|Secondary|Understand how<br>transfer credits|US-04| apply toward<br>degree completion
 |---|---|---|---|
 |Students not using<br>GradPath|Hidden|Register for<br>courses without<br>adverse effects<br>from GradPath-<br>generated plans|US-05|
 |||_Notes:_<br>_Transfer students_<br>_do not have access_<br>_to Audit degrees_<br>_until admission is_<br>_finalized_||
